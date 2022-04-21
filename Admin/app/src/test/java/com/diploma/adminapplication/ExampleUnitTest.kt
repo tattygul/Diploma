@@ -1,4 +1,4 @@
-package com.example.admin
+package com.diploma.adminapplication
 
 import org.junit.Test
 

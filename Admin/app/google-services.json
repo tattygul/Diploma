@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "335281194038",
-    "project_id": "diploma-8d5c5",
-    "storage_bucket": "diploma-8d5c5.appspot.com"
+    "project_number": "241005626796",
+    "project_id": "diplomaproject-cf5fd",
+    "storage_bucket": "diplomaproject-cf5fd.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:335281194038:android:8d26dd9cddd6901b560497",
+        "mobilesdk_app_id": "1:241005626796:android:24710878e63dc1a9a12609",
         "android_client_info": {
-          "package_name": "com.example.admin"
+          "package_name": "com.diploma.adminapplication"
         }
       },
       "oauth_client": [
         {
-          "client_id": "335281194038-n5dsju123tnod0gt33mecrkn7jpm7g0j.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.admin",
-            "certificate_hash": "e37f52508f83c29e47d80d29f5a8f451ff3fe44d"
-          }
-        },
-        {
-          "client_id": "335281194038-uc10997320q0tfa1vehupku58n83h70m.apps.googleusercontent.com",
+          "client_id": "241005626796-2oij0ej3b4cifqff93mi9q0fmlo21dks.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCDBp0xN7lbjDUul2tEcNrqxCL96B6WDeY"
+          "current_key": "AIzaSyBNJ0QsyocqbKOEcvBGDDF5Y4BDi-fJ5Oc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "335281194038-uc10997320q0tfa1vehupku58n83h70m.apps.googleusercontent.com",
+              "client_id": "241005626796-2oij0ej3b4cifqff93mi9q0fmlo21dks.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
