@@ -30,6 +30,7 @@
             android:id="@+id/phone_edit_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/pt_sans"
             android:inputType="phone"
             android:textColorHint="#757575"
             tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
@@ -43,6 +44,8 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="32dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/pt_sans"
         android:text="SENT OTP" />
 
 
@@ -59,6 +62,7 @@
             android:id="@+id/OTP_edit_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/pt_sans"
             android:inputType="textPassword"
             android:textColorHint="#757575"
             tools:ignore="TouchTargetSizeCheck,TextContrastCheck" />
@@ -71,6 +75,8 @@
         android:layout_marginStart="32dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="32dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/pt_sans"
         android:text="verify" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>

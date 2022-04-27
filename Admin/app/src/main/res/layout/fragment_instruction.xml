@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDDCDC"
+    tools:context=".InstructionFragment"
+    tools:ignore="MissingDefaultResource">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:contentDescription="logo"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/pt_sans"
+            android:padding="20dp"
+            android:text="The purpose of this project is to develop a mobile application for a cafe that will help customers view free rooms through their phone, and managers to keep records. The uniqueness of that mobile application is that restaurants do not need computers or the purchase of expensive software to use it. Customers can reserve a room and make an order with one click while managers can do the same thing, but also change, add or remove the rooms or change dishes and prices in their menu.  Additionally, this mobile application has a feature that allows restaurant administrators to calculate income, expenses and profits. It is enough to have with you a mobile device. This application was built on Android Studio and supported on Android smart-phones."
+            android:textAlignment="center"
+            android:textSize="15sp" />
+    </LinearLayout>
+</FrameLayout>
