@@ -3,8 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1" />
+        <entry key="app/src/main/res/font/.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/font/lato_bold.xml" value="0.22395833333333334" />
+        <entry key="app/src/main/res/font/pt_sans.xml" value="0.22395833333333334" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.17864583333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/fragment_menu.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/fragment_order.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/fragment_room.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/input_file.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/input_order.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/menu_item.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/order_item.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/room_item.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/layout/update_menu.xml" value="0.17028985507246377" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.33" />
       </map>
     </option>
   </component>

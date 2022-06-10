@@ -33,10 +33,10 @@ android {
     buildFeatures {
         viewBinding true
     }
-    repositories {
-        mavenCentral()
-    }
 }
+//repositories {
+//    mavenCentral()
+//}
 
 dependencies {
 

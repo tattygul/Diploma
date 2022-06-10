@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">CustomerApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="order_spinner">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+
+    <string-array name="food_category">
+        <item>Starters</item>
+        <item>Main Courses</item>
+        <item>Salads</item>
+        <item>Company Food</item>
+        <item>Bar</item>
+    </string-array>
+
 </resources>
